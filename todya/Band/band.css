@@ -1,0 +1,414 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.main-container{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.heading {
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 1600px;
+    position: fixed;
+}
+
+.heading ul {
+    background-color: black;
+    list-style: none;
+    padding: 10px 0; 
+}
+
+.heading ul li {
+    display: inline-block;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.heading ul li:hover {
+    background-color: #ccc;
+    color: white;
+    
+}
+
+.photo1{
+    padding-top: 55px;
+}
+
+.the{
+    text-align: center;
+    margin: 80px;
+    margin-left: 370px;
+    width: 768px;
+   
+}
+
+
+
+.hm{
+  padding-top: 20px;
+  margin-left: 15px;
+}
+
+
+.we{
+    text-align: justify !important;
+    padding-top: 20px;
+}
+
+
+.name{
+    margin-top: 60px;
+}
+
+
+
+
+.middle{
+    width: 100%;
+    height: 300px;
+}
+
+.one{
+    width: 33%;
+}
+
+.two{
+    width: 33%;
+}
+
+.three{
+    width: 33%;
+}
+
+.middle{
+    text-align: center;
+    width: 100%;
+}
+
+.middle .one{
+    width: 33%;
+    float: left;
+}
+
+.middle .two{
+    width: 33%;
+    float: left;
+}
+
+.middle .three{
+    width: 33%;
+    float: left;
+}
+
+.tour{
+    height: 800px;
+    width: 1600px;
+    background-color: black;
+    clear: both;
+    color: white;
+    text-align: center;
+    font-weight: 100;
+    padding-left: 150px;
+}
+
+.heading3{
+    padding-top: 90px;
+    padding-right: 300px;
+}
+
+.ch{
+    margin-top: -100px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.id{
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.remember{
+    margin-top: 30px;
+    color: #ffffff;
+}
+
+.mon{
+    background-color: white;
+    color: black;
+    width: 800px;
+    height: 100px;
+    margin-left: 270px;
+    margin-top: 30px;
+}
+
+.box-middle{
+    width: 100%;
+    margin-left: 270px;
+    height: 400px;
+    text-align: center;
+    padding-top: 30px;
+    vertical-align: middle;
+   
+}
+
+.img1{
+margin-left: 10px;
+}
+
+.img2{
+    margin-left: 20px;
+ }
+
+.box-one{
+    width: 20%;
+    float: left;
+    width: 260px;
+    height: 300px;
+}
+
+.box-two{
+    width: 20%;
+    float: left; 
+    width: 260px;
+    height: 300px; 
+}
+
+
+
+
+.box-three{
+    width: 20%;
+    float: left;
+    width: 260px;
+    height: 300px;  
+}
+
+
+.new{
+    background-color: white;
+    color: black;
+    height: 150px;
+}
+
+
+
+
+.new1{
+    background-color: white;
+    color: black;
+    height: 150px;
+    margin-left: 10px;
+    width: 260px;
+}
+
+.new2{
+    background-color: white;
+    color: black;
+    height: 150px;
+    margin-left: 20px;
+    width: 260px;
+}
+
+.new3{
+    background-color: white;
+    color: black;
+    height: 150px;
+    margin-left: 10px;
+}
+
+
+
+
+.york{
+    padding-right: 170px;
+    padding-top: 20px;
+}
+
+
+.fri{
+    padding-right: 125px;
+    padding-top: 15px;
+
+}
+
+
+.Praesent{
+    padding-left: 10px;
+    width: 190px;
+    padding-top: 15px;
+   
+}
+
+
+.fan{
+    padding-top: 15px;
+}
+
+.image1{
+    margin-top: 20px;
+}
+
+.mon{
+    background-color: white;
+    color: black;
+    max-width: 800px;
+   
+    margin-top: 30px;
+    height: 140px;
+    
+}
+ 
+.sep, .oct, .nov{
+    height: 50px;
+}
+.sep, .oct{
+    border-bottom: 1px solid #ccc;
+}
+.sep-sub, .oct-sub, .nov-sub{
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+}
+ 
+.sep-sub-p1{
+    float: left;
+    width: auto;
+    margin-right: 20px;
+    margin-left: 10px;
+    font-size: 15px !important;
+}
+.sep-sub-p2{
+    float: left;
+    width: auto;
+    text-align: left;
+    background-color: #f44336 !important;
+    columns: #fff;
+    font-size: 16px !important;
+    height: 25px;
+    line-height: 15px;
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+    color: #FFF;
+}
+
+
+ 
+
+.con1{
+    height: 500px;
+    width: 1600px;
+    background-color: #fff;
+}
+
+
+.con{
+    text-align: center;
+    padding-top: 80px;
+
+}
+
+.middle-one{
+    padding-top: 40px;
+    padding-left: 400px;
+    font-size: 20px;
+    width: 100%;
+}
+
+
+.middle-1{
+    width: 35%;
+    float: left;
+}
+
+.middle-2{
+    width: 35%;
+    float: left;
+}
+
+.nam{
+   padding-left: 10px;
+   height: 40px;
+   width: 200px;
+}
+
+.mes{
+    padding-left: 10px;
+   height: 40px;
+   width: 400px;
+   margin-top: 10px;
+}
+ 
+.butt{
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 300px;
+    height: 200px;
+ }
+
+
+
+
+
+button{
+    height: 35px;
+    width: 90px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+ }
+
+
+
+ .phto3{
+    margin-top: 30px;
+ }
+
+
+ .footer{
+    height: 200px;
+    width: 1600px;
+    color: #000000;
+   
+   
+ }
+
+
+ .icons{
+    text-align: center;
+    padding-top: 80px;
+    font-size: 20px;
+ }
+
+ .para{
+    text-align: center;
+    padding-top: 20px;
+ }
+
+
+
+
+
+
+
+
+.chi, .pho, .email{
+    display: flex;
+}
+
+.yk{
+  margin-left: 10px;
+}
+
+

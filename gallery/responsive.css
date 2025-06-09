@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+  box-sizing: border-box;
+}
+.main-container {
+  width: 100%;
+}
+.photos-box {
+  vertical-align: middle;
+  width: 50%;
+  float: left;
+}
+
+.photos-box img {
+  width: 100%;
+  padding: 5px;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.resize {
+  padding-top: 20px;
+}

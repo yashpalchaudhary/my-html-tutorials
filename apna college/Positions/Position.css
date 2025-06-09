@@ -1,0 +1,32 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#box1 {
+    position: static;
+    background-image: url("box6_image.jpg");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+
+#box2 {
+    position: relative;
+}
+
+#box3 {
+    position: sticky;
+    top: 0;
+    right: 200px;
+      
+}
+
+#box4 {
+    position: fixed;
+    top: 0;
+    left: 20px;
+} 

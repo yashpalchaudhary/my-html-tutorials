@@ -1,0 +1,113 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.main-container {
+   height: 100vh;
+   width: 100vw;
+}
+
+.middle-box {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+
+
+.icon {
+    display: flex;
+    gap: 20px;
+    padding-top: 20px;
+   line-height: 15px;
+}
+
+.adobe {
+    margin-top: 15px;
+    line-height: 3rem;
+}
+
+.lang {
+     line-height: 30px;
+
+}
+
+
+.left-box {
+    font-size: 18px !important;
+    color: #757575;
+}
+
+.right-box {
+       color: #757575;
+}
+
+
+
+.eng {
+    margin-top: 25px;
+    line-height: 2rem;
+}
+
+
+
+.font {
+    margin-top: 25px;
+    line-height: 1rem;
+}
+
+.lorem {
+    margin-top: 20px;
+    color: black;
+    width: 800px;
+}
+
+.web {
+    margin-top: 40px;
+    line-height: 2rem;
+}
+
+.graphic {
+    margin-top: 20px;
+}
+
+.educat {
+    margin-top: 40px;
+}
+ 
+.w3 {
+    margin-top: 40px;
+}
+
+.web {
+    margin-top: 10px;
+}
+
+.lond {
+    margin-top: 30px;
+    line-height: 2rem;
+}
+
+
+.school {
+    margin-top: 30px;
+    line-height: 2.3rem;
+}
+
+
+
+.footer {
+  margin-top: 450px;
+  text-align: center;
+  height: 100px;
+  padding-top: 30px;
+  background-color: #757575;
+  color: white;
+}
+
+

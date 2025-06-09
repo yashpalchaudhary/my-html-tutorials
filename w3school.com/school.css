@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.heading{
+    margin-left: 10px;
+}
+
+.butt{
+    height: 100%;
+}
+
+.butt1{
+    float: left;
+    height: 44.6px;
+    width: 119.84px;
+    background-color: #04AA6D;
+    color: #ffffff;
+    margin-left: 10px;
+    text-align: center;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+} 
+
+
+.para{
+    padding-top: 10px;
+}
+
+.butt2{
+    float: left;
+    height: 30px;
+    width: 90px;
+    background-color: #04AA6D;
+    margin-left: 900px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 20px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+} 
+
+.thehead{
+    clear: both;
+    line-height: 2;
+}

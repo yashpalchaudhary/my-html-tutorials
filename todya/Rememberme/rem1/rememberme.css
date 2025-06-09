@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: 100;
+}
+
+.main-container {
+  height: 100vh;
+  width: 100vw;
+  font-family: Verdana, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.content {
+  width: 50%;
+  font-size: 0.9rem;
+}
+
+.middle-boxs {
+  width: 100%;
+}
+
+.left-box {
+  float: left;
+  width: 40%;
+}
+
+.school {
+  padding: 20px;
+  color: #666;
+  width: 350px;
+  height: 58px;
+}
+
+.school :hover {
+  background-color: #ccc;
+}
+
+.new {
+  color: #fff !important;
+  background-color: #616161 !important;
+  height: 70px;
+  width: 350px;
+  padding: 20px;
+  color: white;
+  display: flex;
+}
+
+.new:hover {
+  background-color: #fff;
+}
+
+
+
+.in {
+  background-color: red;
+  padding: 20px;
+  color: white;
+  width: 350px;
+  height: 70px;
+  display: flex;
+}
+ 
+.in:hover {
+  background-color: #ccc;
+}
+
+
+
+
+
+
+
+
+.right-box {
+  float: left;
+  width: 59%;
+  padding: 40px;
+}
+
+.photo {
+  margin-left: 20px;
+  height: 250px;
+  width: 250px;
+  background-image: url("image.png");
+  background-size: cover;
+}
+
+.subject {
+  width: 197px;
+  padding-top: 10px;
+  margin-left: 20px;
+}
+
+.form {
+  padding-top: 10px;
+  margin-left: 20px;
+}
+
+.hello {
+  margin-top: 100px;
+  margin-left: 20px;
+  width: 1310px;
+}
+
+.lorem {
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 1310px;
+} 
+
+.best {
+  margin-top: 10px;
+  margin-left: 20px;
+}

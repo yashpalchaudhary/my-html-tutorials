@@ -1,0 +1,185 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Arial;
+    margin: 0;
+}
+
+.main-container{
+    height: 100vh;
+}
+
+.content{
+    height: 100%; 
+    width: 100%;
+}
+
+.heading{
+    background-color: #ffff00;
+    height: 50px;
+    text-align: center;
+    font-size: 0.5rem; 
+    padding-top: 30px;
+    
+}
+
+.websites{
+    height: 200px;
+    background-color: #1abc9c; 
+    padding-top: 100px;
+}
+
+
+.websites .website{
+    background-color: #1abc9c; 
+    color: #FFFFFF;
+    font: 16px Arial;
+    height: 50px;
+    text-align: center;
+   
+}
+
+
+
+.website2{   
+text-align: center;
+color: #FFFFFF;
+background-color: #1abc9c; 
+
+}
+
+                                                                          
+.links{                                                            
+    background: #333;
+    font-size: 1.2rem;
+    padding: 14px 20px;
+    word-spacing: 20px;  
+    padding-left: 20px;
+}
+
+
+.links a{
+    color: white;
+}
+
+
+.links :hover{  
+    color:  #ddd;
+    padding: 10px;
+}
+
+
+
+.aboutme .first-box .about{
+    font-size: 1rem;
+    padding-top: 30px;
+}
+
+.photo{
+    padding: 20px;
+    padding-left: 0;
+    font-size: 1rem;
+}
+
+.image{
+    height: 180px;
+    width: 150px;
+    background-color: #aaa;
+    padding: 20px;
+}
+
+.some{
+    padding: 20px 20px 20px 0;
+    width: 200px;
+}
+
+.more{
+    padding: 0 0 20px;
+    font-size: 1rem;
+}
+
+.lorem{
+    width: 160px;
+}
+
+.imageA{
+    
+    background-color: #aaa;
+    padding: 20px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+.imageB{
+    
+    background-color: #aaa;
+    padding: 20px;
+    width: 150px;
+    margin-top: 20px;
+}
+
+.imageC{
+    
+    background-color: #aaa;
+    padding: 20px;
+    width: 150px;
+    margin-top: 20px;
+}
+
+.aboutme{
+    width: 100%;
+    background-color: #f1f1f1;
+    height: calc(100vh - 500px);
+}
+
+.first-box{
+    width: 15%;
+    float: left;
+}
+
+.second-box{
+    width: 82%;
+    float: left;
+    margin-left: 20px;
+}
+
+.second-box .title{
+    font-size: 1rem;
+    padding-top: 30px;
+}
+
+.date{
+    padding: 20px;
+    padding-left: 0;
+} 
+
+.image3{
+    height: 180px; 
+    width: 500px;
+    background-color: #aaa;
+    padding: 20px;
+}
+
+.sunt{ 
+    padding-top: 30px;
+    width: 420px;
+
+}
+
+.footer{
+    height: 60px;
+    clear: both;
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+}
+
+.back{
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin-right: 10px;
+   height: 1000px;
+}

@@ -1,0 +1,192 @@
+/*body {
+  margin: 0;
+}
+
+.container {
+  border: 6px solid black;
+  display: flex;
+  
+}
+
+.flex-item {
+  color: white;
+  font-size: 1.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+.item-1 {
+  background-color: #B4BF35;
+}
+
+.item-2 {
+  background-color: #b95f21;
+}
+
+.item-3 {
+  background-color: #1c4c56;
+}
+
+.item-4 {
+  background-color: #cfb276;
+}
+
+.item-5 {
+  background-color: #6b0803;
+}
+
+.item-6 {
+  background-color: #1c4c56;
+}
+
+.item-7 {
+  background-color: #b95f21;
+}
+
+.item-8 {
+  background-color: #01233A;
+}
+
+.item-9 {
+  background-color: #aad041;
+}*/
+
+
+ /*body {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  font-size: 2rem;
+  background-color: #f1f1f1;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-top: 0;
+  padding: 0;
+  display: flex;
+  /*justify-content: space-evenly;
+}*/
+
+
+
+/*body {
+  margin: 0;
+  padding: 0;
+}
+nav ul li {
+  cursor: pointer;
+  padding: 0.5rem;
+  flex: auto;
+  text-align: center;
+}
+
+nav ul  li:hover{
+ background-color: #555;
+ color: white;
+}
+
+@media all and (max-width: 400px) {
+  nav ul {
+    flex-direction: column;
+  }
+  nav ul li {
+    text-align: center;
+  }
+}*/
+
+
+
+/*.container {
+  height: 400px;
+  width: 400px;
+  border: 3px solid orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item {
+  height: 80px;
+  width: 80px;
+  border: 3px solid orange;
+}*/
+
+
+/*.cards {
+  display: flex;
+}
+
+.card {
+  font-size: 1.5rem;
+  border: 4px solid black;
+  margin: 5px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.card .footer {
+  padding: 5px;
+  background-color: #f1f1f1;
+}
+.card .body {
+  flex: 1;
+}*/
+
+
+* {
+ margin: 2px;
+}
+
+body {
+  font-size: 24px;
+  color: white;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-header {
+  background-color: #5070b5;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+
+.flex-main {
+    display: flex;
+    flex: 1;
+}
+
+.flex-nav {
+  background-color: #b95f21;
+  padding-top: 3rem;
+   flex: 1 1 5rem;
+}
+
+.flex-article {
+     background-color: #81a43c;
+     padding-top: 3rem;
+     flex: 3 3 ;
+}
+
+.flex-aside {
+   background-color: #b95f21;
+    padding-top: 3rem;
+    flex: 1 1 5rem;
+}
+
+.flex-footer {
+    background-color: #5070b5;
+     padding-top: 3rem;
+     padding-bottom: 3rem;
+}
+
+@media all and (max-width: 500px) {
+  .flex-main {
+    flex-direction: column;
+  }
+}

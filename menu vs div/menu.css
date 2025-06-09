@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  .menu {
+    display: flex;
+    background-color: #333;
+  }
+
+  .menu-item {
+    position: relative;
+  }
+
+  .menu-item > a {
+    display: block;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+  }
+
+  .menu-item:hover {
+    background-color: #444;
+  }
+
+  .submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #444;
+    min-width: 160px;
+    z-index: 1000;
+  }
+
+  .submenu a {
+    display: block;
+    padding: 12px 16px;
+    color: white;
+    text-decoration: none;
+  }
+
+  .submenu a:hover {
+    background-color: #555;
+  }
+
+  .menu-item:hover .submenu {
+    display: block;
+  }

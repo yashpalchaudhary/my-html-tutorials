@@ -1,0 +1,58 @@
+body{
+   margin: 0;
+   padding: 0;
+   font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.main-container{
+    height: 100vh;
+    width: 100vw;
+}
+
+.heading{
+    height: 100px;
+    width: 1650px;
+    background-color: #666;
+    color: white;
+    font-weight: 100;
+    padding-left: 15px;
+    padding-top: 1px;
+}
+
+.photo{
+    background-image: url("image.png");
+    background-size: cover;
+    height: 550px;
+    width: 1000px;
+    margin: 20px;
+}
+ 
+.boxs{
+    width: 100%;
+}
+
+.box-left{
+    float: left;
+    width: 75%;
+}
+  
+.box-right{
+    float: left;
+    width: 20%;
+    font-size: 1rem;
+    letter-spacing: 2px;
+    line-height: 2;
+    word-spacing: 7px;
+}
+
+.chardonnay{
+    width: 500px;
+}
+
+.food{
+    clear: both;
+    padding-left: 20px;
+}
+

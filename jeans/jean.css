@@ -1,0 +1,134 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-container {
+  height: auto;
+  width: 100vw;
+}
+
+.middle-box {
+  width: 100%;
+  display: flex;
+}
+
+.left-box {
+  width: 30%;
+  text-align: center;
+  line-height: 3;
+  padding: 20px;
+}
+
+.jean {
+  margin-top: 25px;
+}
+
+.Shirt {
+    padding-top: 60px;
+}
+
+.content {
+  margin-top: 50px;
+
+}
+
+.right-box {
+  width: 70%;
+  padding: 20px;
+}
+
+.photo {
+    margin-top: 15px;
+}
+
+.image,
+.image1 {
+  display: flex;
+  gap: 25px;
+  margin-top: 20px;
+}
+
+.item {
+  margin-top: 20px;
+}
+
+.text {
+  display: flex;
+  gap: 100px;
+  line-height: 25px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+
+
+.sub {
+  background-color: black;
+  color: white;
+  padding: 30px;
+  margin-top: 20px;
+}
+
+.mega {
+    padding-left: 32px;
+}
+
+.wash {
+    padding-left: 35px;
+}
+
+.vinta {
+     padding-left: 40px;
+}
+
+.subs,
+.toget {
+  padding: 10px 0;
+}
+
+.input {  
+  width: 95%;
+  height: 40px;
+  padding-left: 10px;
+  font-size: 0.9rem;
+}
+
+.butt {
+  margin: 20px 0;
+  height: 40px;
+  width: 150px;
+  background-color: #f44336;
+  color: #ffffff;
+  text-align: center;
+  line-height: 40px;
+  font-size: 1.1rem;
+}
+
+.boxs {
+  display: flex;
+  gap: 150px;
+  background-color: #f1f1f1;
+  color: black;
+  padding: 30px;
+  line-height: 2;
+  flex-wrap: wrap;
+}
+
+.sen {
+    height: 34px;
+    width: 286px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  height: 100px;
+}

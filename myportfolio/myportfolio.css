@@ -1,0 +1,294 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    height: 100vh;
+    width: 100vw;
+}
+
+.middle-box {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    margin: 20px;
+}
+
+.left-box {
+    line-height: 3rem;
+    position: fixed;
+    /* Fixed position */
+    top: 0;
+    /* Start from top */
+    left: 0;
+    margin: 30px;
+}
+
+
+.right-box {
+    margin-left: 270px;
+}
+
+
+
+.photos {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 20px;
+}
+
+.praesen {
+    margin-top: 10px;
+}
+
+.lorem {
+    margin-top: 15px;
+    width: 340px;
+    line-height: 1.2rem;
+    margin-left: 15px;
+}
+
+.count {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2rem;
+}
+
+.photos2 {
+    margin-top: 50px;
+}
+
+.about {
+    margin-top: 30px;
+    line-height: 20px;
+}
+
+.just {
+    margin-top: 20px;
+    width: 1100px;
+    line-height: 1.5rem;
+}
+
+.technical {
+    margin-top: 40px;
+    font-weight: 300;
+    line-height: 2rem;
+}
+
+.down {
+    margin-top: 20px;
+    height: 30px;
+    width: 250px;
+    background-color: #616161;
+    text-align: center;
+    padding-top: 18px;
+    color: white;
+}
+
+.how {
+    margin-top: 30px;  
+}
+
+.basi {
+    background-color: #666;
+    color: white;
+    height: 50px;
+    width: 330px;
+    text-align: center;
+    padding-top: 40px;
+    border-bottom: 1px solid #ddd;
+
+}
+
+.web {
+    background-color: pink;
+    color: white;
+    height: 45px;
+    width: 330px;
+    text-align: center;
+    padding-top: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.photog {
+    background-color: brown;
+    color: white;
+    height: 45px;
+    width: 330px;
+    text-align: center;
+    padding-top: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.one {
+    background-color: blue;
+    color: white;
+    height: 45px;
+    width: 330px;
+    text-align: center;
+    padding-top: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+
+.mail {
+    background-color: brown;
+    color: white;
+    height: 45px;
+    width: 330px;
+    text-align: center;
+    padding-top: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.ten {
+    background-color: brown;
+    color: white;
+    height: 45px;
+    width: 330px;
+    text-align: center;
+    padding-top: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.sign {
+    background-color: brown;
+    color: white;
+    height: 50px;
+    width: 330px;
+    text-align: center;
+    padding-top: 40px;
+    border-bottom: 1px solid #ddd;
+}
+
+
+
+.boxs {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+
+.contact {
+    height: 500px;
+    width: 1270px;
+    color: #000 !important;
+    background-color: #9e9e9e !important;
+    margin-top: 20px;
+}
+
+.conta {
+    padding: 25px;
+}
+
+.emails {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-left: 20px;
+    color: white;
+}
+
+.email {
+    height: 50px;
+    width: 380px;
+    background-color: #666;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.chicago {
+    height: 50px;
+    width: 380px;
+    background-color: #666;
+    text-align: center;
+    padding-top: 60px;
+}
+
+
+.phone {
+    height: 50px;
+    width: 380px;
+    background-color: #666;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.para {
+    margin-left: 20px;
+    color: white;
+    margin-top: 25px;
+}
+
+
+.names {
+    margin: 40px;
+}
+
+.name {
+    margin-top: 20px;
+}
+
+.send {
+    color: white;
+    background-color: #000;
+    height: 20px;
+    width: 160px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.foot {
+    height: 210px;
+    display: flex;
+    flex-direction: row;
+    color: #fff !important;
+    background-color: #616161 !important;
+    padding-top: 35px;
+    padding-left: 30px;
+    gap: 30px;
+
+}
+
+.para1 {
+    width: 350px;
+    margin-top: 17px;
+}
+
+.trav {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.power {
+    margin-top: 20px;
+}
+
+.popular {
+    line-height: 2rem;
+}
+
+.powered {
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.in {
+    width: 400px;
+}  

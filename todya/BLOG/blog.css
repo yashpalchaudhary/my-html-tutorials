@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    height: 100vh;
+    width: 100vw;
+    line-height: 25px;
+}
+
+.headng{
+    height: 180.5px;
+    width: 1012.8;
+    color: #000000;
+    font-size: 18px;
+    padding: 32px 16px;
+    text-align: center;
+}
+
+.headng .para{
+    padding-top: 20px;
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+    margin-left: 70px;
+
+}
+
+.left-box{
+    width: 61%;
+    float: left;
+}
+
+.me{ 
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: #666;
+    width: 900px;    
+}
+
+.left-box .image{
+    height: 280px;
+    width: 900px;
+    background-image: url("image.png");
+    background-size: cover;
+}
+
+.left-box .imageA{
+    height: 280px;
+    width: 900px;
+    background-image: url("image copy.png");
+    background-size: cover;
+}
+
+.tittle{
+    margin-left: 15px;
+   
+
+}
+
+.title{
+    margin-top: 20px;  
+}
+
+.date{
+    margin-top: 20px;  
+}
+
+.Mauris{
+    margin-top: 20px; 
+}
+
+.read{
+    margin-top: 30px; 
+}
+
+.imageA{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+.right-box{
+    width: 25%;
+    float: left;
+}
+
+
+.right-box .img{
+    background-image: url("image copy 2.png");
+    background-size: cover;
+    height: 244.66px;
+    width: 430px;
+    font-weight: 100;
+} 
+
+.you{
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: #666;
+    width: 430px;
+}
+
+.two{
+    margin: 20px;
+}
+
+.just{
+    margin-top: 18px;
+}
+
+
+
+.tm{
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: #666;
+    width: 430px;
+    padding-left: 20px;
+}
+.popular{
+    padding-top: 20px;
+}
+
+.photo{
+    background-image: url("image copy 3.png");
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+}
+
+
+.tag{
+   
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: #666;
+    padding-left: 20px;
+}
+
+.heading2{
+    background-color: #ccc;
+    height: 60px;
+    width: 430px;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.three{
+    height: 150px;
+    width: auto;
+}
+
+
+.footer{
+    clear: both;
+    color: #ffffff;
+    margin: 16px 0px 0px;
+    padding: 32px 16px;
+    background-color: #616161;
+    height: 179px;
+    width: auto;
+    
+   
+ 
+}
+
+.powered{
+    margin-top: 20px;
+}

@@ -1,0 +1,133 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.main-box{
+    height: 100%;
+    
+}
+
+.heading{
+    background-color: #666;
+    color: white;
+    height: 85px;
+    padding-left: 10px;
+    font-size: 1.5rem;
+}
+
+.heading .Summer{
+    padding-top: 15px;
+    font-weight:100;
+    
+} 
+
+.first-box{
+height: 100%;
+width: 100%;
+margin-top: 20px; 
+padding-left: 25px;   
+}
+ 
+.first-box .box1{
+    height: 250px;
+    width: 450px;
+    border: 2px solid black;
+    background-image: url("img_5terre1.jpg");
+    background-size: cover;
+    float: left; 
+}
+
+.terre{
+    padding-top: 250px;
+    font-weight:400px;
+    
+}
+
+
+.first-box .box2{
+    height: 250px;
+    width: 450px;
+    border: 2px solid black;
+    background-image: url("img_monterosso.jpg");
+    background-size: cover;
+    margin-left: 20px;
+    float: left; 
+}
+
+.Monter{
+    padding-top: 250px;
+    font-weight:400px;
+}
+
+
+
+.first-box .box3{
+    height: 250px;
+    width: 450px;
+    border: 2px solid black;
+    background-image: url("img_vernazza.jpg");
+    background-size: cover;
+    margin-left: 20px;
+    float: left; 
+}
+
+.Verna{
+        padding-top: 250px;
+        font-weight:400px;
+}
+
+
+.second-box{
+    height: 100%;
+    width: 100%;
+    margin-top: 55px;
+    padding-left: 2px;
+    float: left;
+    }
+
+.second-box .box1{
+    height: 250px;
+    width: 450px;
+    border: 2px solid black;
+    background-image: url("img_monterosso.jpg");
+    background-size: cover;
+    margin-left: 20px;
+    float: left; 
+}
+
+.Manaro{
+    padding-top: 250px;
+    font-weight:400px;
+}
+
+.second-box .box2{
+    height: 250px;
+    width: 450px;
+    border: 2px solid black;
+    background-image: url("img_corniglia.jpg");
+    background-size: cover;
+    margin-left: 20px;
+    float: left; 
+}
+
+.Cornigl{
+    padding-top: 250px;
+    font-weight:400px;
+}
+
+.second-box .box3{
+    height: 250px;
+    width: 450px;
+    border: 2px solid black;
+    background-image: url("img_riomaggiore.jpg");
+    background-size: cover;
+    margin-left: 20px;
+    float: left; 
+}
+
+
+.Riomaggi{
+    padding-top: 250px;
+    font-weight:400px; 
+}

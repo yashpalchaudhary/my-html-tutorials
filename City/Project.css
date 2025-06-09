@@ -1,0 +1,77 @@
+.main-continer {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    box-sizing: border-box; 
+    margin: 0;
+    padding: 0;
+} 
+
+.city-box { 
+    height: 120px;
+    background: #666;
+}
+
+.city-box .headiing-city {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    line-height: 2.7; 
+    color: #fff;
+    font-size: 42px;
+}
+
+.footer-box {
+    background: #666;
+    height: 60px;
+}
+
+.footer-text {
+    text-align: center;
+    color: #fff;
+    line-height: 3;
+    margin: auto;
+}
+
+.middle-box {
+    height: calc(100vh - 180px);
+}
+
+.left-box {
+    width: 30%;
+    background: #ccc;
+    height: 100%;
+    padding-left: 20px; 
+    float: left;
+}
+
+.right-box {  
+    width: calc(70% - 20px);
+    float: left;
+}
+
+.left-box a {
+    display: block;
+    margin-bottom: 5px; 
+    color: blue;
+    text-decoration: underline;
+} 
+.links{
+    margin-top: 40px;
+}
+
+.right-box .right-wrapper {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.right-box .right-wrapper .london{
+    font-size: 50px;
+}
+@media (max-width: 478px) {
+    body{
+        background-color: black;
+    }
+}
+
