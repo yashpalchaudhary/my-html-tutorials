@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -18,18 +19,18 @@ body{
 }
 
 .heading{
-    background-color: #ffff00;
-    height: 50px;
+   background-color: #ffff00;
+    height: 62px;
     text-align: center;
-    font-size: 0.5rem; 
-    padding-top: 30px;
+    font-size: 10px;
+    padding-top: 18px;
     
 }
 
 .websites{
-    height: 200px;
+    height: 225px;
     background-color: #1abc9c; 
-    padding-top: 100px;
+    padding-top: 64px;
 }
 
 
@@ -39,7 +40,6 @@ body{
     font: 16px Arial;
     height: 50px;
     text-align: center;
-   
 }
 
 
@@ -75,7 +75,7 @@ background-color: #1abc9c;
 
 .aboutme .first-box .about{
     font-size: 1rem;
-    padding-top: 30px;
+    padding-top: 11px;
 }
 
 .photo{
@@ -86,7 +86,6 @@ background-color: #1abc9c;
 
 .image{
     height: 180px;
-    width: 150px;
     background-color: #aaa;
     padding: 20px;
 }
@@ -106,33 +105,17 @@ background-color: #1abc9c;
 }
 
 .imageA{
-    
     background-color: #aaa;
     padding: 20px;
-    width: 150px;
     margin-top: 10px;
 }
 
-.imageB{
-    
-    background-color: #aaa;
-    padding: 20px;
-    width: 150px;
-    margin-top: 20px;
-}
 
-.imageC{
-    
-    background-color: #aaa;
-    padding: 20px;
-    width: 150px;
-    margin-top: 20px;
-}
 
 .aboutme{
     width: 100%;
-    background-color: #f1f1f1;
     height: calc(100vh - 500px);
+    margin-top: 20px;
 }
 
 .first-box{
@@ -158,21 +141,20 @@ background-color: #1abc9c;
 
 .image3{
     height: 180px; 
-    width: 500px;
     background-color: #aaa;
     padding: 20px;
 }
 
 .sunt{ 
     padding-top: 30px;
-    width: 420px;
+    width: 80vw;
 
 }
 
 .footer{
-    height: 60px;
+    height: 74px;
     clear: both;
-    padding: 20px;
+    padding: 17px;
     text-align: center;
     background: #ddd;
 }
@@ -181,5 +163,24 @@ background-color: #1abc9c;
     background-color: #f1f1f1;
     padding: 20px;
     margin-right: 10px;
-   height: 1000px;
+    height: 713px;
+}
+
+
+@media (max-width: 376px) {
+    .heading{
+        font-size: 6px;
+    }
+
+    .back{
+        width: 97vw;
+    }
+
+    .image3{
+        width: 87vw;
+    }
+
+    .imageA{
+        height: 10vh;
+    }
 }
