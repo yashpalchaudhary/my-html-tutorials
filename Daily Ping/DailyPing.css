@@ -45,7 +45,7 @@ h1{
 }
 p{
     text-align: justify;
-    line-height: 1.5;
+    line-height: 1.5; 
     letter-spacing: 1.9px;
     word-wrap: break-word;
 }
@@ -53,34 +53,15 @@ p{
     color: red;
 }
 
-@media (max-width: 786px){
-    h1{
-        color: blue;
-    }
-    
-    p{
-        font-size: 10px;
-    }
-}
-
-@media (max-width: 480px){
+@media (max-width: 376px){
     h1{
         color: red;
     }
     
-    p{
-        font-size: 8px;
-    }
-
     .Empty, .sit, .Very{
         width: 100%;
     }
 }
 
-@media (min-width: 920px) and (max-width: 1000px){
-    body{
-        background-color: red;
-    }
-}
 
 
