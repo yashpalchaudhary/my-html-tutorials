@@ -5,5 +5,5 @@
 
 
 ### this is my  band portofolio full website template
-![My foot website template](https://raw.githubusercontent.com/yashpalchaudhary/my-html-tutorials/refs/heads/main/todya/Band/Screenshot%202025-08-01%20164057.png)
+![My foot website template](https://raw.githubusercontent.com/yashpalchaudhary/my-html-tutorials/main/todya/Band/Screenshot%202025-08-01%20164057.png)
 
