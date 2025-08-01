@@ -21,7 +21,7 @@
 
 .headng .para{
     padding-top: 20px;
-}
+} 
 
 .content {
     width: 100%;
@@ -122,6 +122,7 @@
     box-shadow: #666;
     width: 430px;
     padding-left: 20px;
+    height: 312px;
 }
 .popular{
     padding-top: 20px;
@@ -140,12 +141,21 @@
     box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
     box-shadow: #666;
     padding-left: 20px;
+    height: 148px;
+}
+
+
+.lorem{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 20px;
+    padding-top: 5px;
 }
 
 .heading2{
     background-color: #ccc;
     height: 60px;
-    width: 430px;
     padding: 15px;
     margin-top: 20px;
 }
