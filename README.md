@@ -10,8 +10,22 @@
 
 
 
-### this is my  band portofolio full website template
+
+### this is  My blog portofolio full website template
+![My foot website template](https://raw.githubusercontent.com/yashpalchaudhary/my-html-tutorials/refs/heads/main/todya/BLOG/Screenshot%202025-08-01%20173109.png)
+
+
+
+### this is myportofolio full website template
 ![My foot website template](https://raw.githubusercontent.com/yashpalchaudhary/my-html-tutorials/refs/heads/main/myportfolio/Screenshot%202025-08-01%20190015.png)
+
+
+
+
+
+
+
+
 
 
 
